@@ -114,19 +114,14 @@ Notification automatique pour les nouveaux livres
 Support de différents types de livres
 Interface console simple à utiliser
 Structure modulaire et extensible
-
-![image](https://github.com/user-attachments/assets/3b9a564f-c1c0-4ab1-a070-c806060792a4)
-![image](https://github.com/user-attachments/assets/6fd1cce7-6785-46b5-aac4-fbd4acb221f5)
-![image](https://github.com/user-attachments/assets/eac55582-09bb-4a2e-bd42-1375a7a3655f)
-
-
-
-
-
-
 Limitations
 
 Utilisation de tableaux fixes (pas de collections dynamiques)
 Nombre maximum de livres : 100
 Nombre maximum de membres : 50
 Maximum 5 livres empruntés par membre
+
+
+![image](https://github.com/user-attachments/assets/3b9a564f-c1c0-4ab1-a070-c806060792a4)
+![image](https://github.com/user-attachments/assets/6fd1cce7-6785-46b5-aac4-fbd4acb221f5)
+![image](https://github.com/user-attachments/assets/eac55582-09bb-4a2e-bd42-1375a7a3655f)
